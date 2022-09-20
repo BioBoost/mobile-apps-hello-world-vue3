@@ -1,6 +1,11 @@
+<script setup lang="ts">
+  import SingleFireButton from '@/components/SingleFireButton.vue'
+</script>
+
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <SingleFireButton />
   </div>
 </template>
 
